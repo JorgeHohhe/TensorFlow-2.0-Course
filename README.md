@@ -6,12 +6,12 @@
 
 ✅ Module 3: Core Learning Algorithms
 
-☐ Module 4: Neural Networks with TensorFlow
+✅ Module 4: Neural Networks with TensorFlow
 
-☐ Module 5: Deep Computer Vision - Convolutional Neural Networks
+✅ Module 5: Deep Computer Vision - Convolutional Neural Networks
 
 ✅ Module 6: Natural Language Processing with RNNs
 
-☐ Module 7: Reinforcement Learning with Q-Learning
+✅ Module 7: Reinforcement Learning with Q-Learning
 
-☐ Module 8: Conclusion and Next Steps
+✅ Module 8: Conclusion and Next Steps
